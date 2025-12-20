@@ -1,4 +1,28 @@
 Date,Team,Location,1,2,3,4,OT,Total
+"Friday, December 19, 2025",Hawks,Away,32,37,26,31,,126
+"Friday, December 19, 2025",Hornets,Home,37,43,27,26,,133
+"Friday, December 19, 2025",Knicks,Away,25,34,27,28,,114
+"Friday, December 19, 2025",Pacers,Home,36,26,30,21,,113
+"Friday, December 19, 2025",Heat,Away,30,24,23,29,,106
+"Friday, December 19, 2025",Nets,Home,27,22,24,22,,95
+"Friday, December 19, 2025",Clippers,Away,33,22,28,18,,101
+"Friday, December 19, 2025",Thunder,Home,27,37,39,19,,122
+"Friday, December 19, 2025",Wizards,Away,27,26,22,19,,94
+"Friday, December 19, 2025",Spurs,Home,34,23,34,28,,119
+"Friday, December 19, 2025",Raptors,Away,31,26,26,28,,111
+"Friday, December 19, 2025",Bucks,Home,25,28,23,29,,105
+"Friday, December 19, 2025",Rockets,Away,33,34,32,20,9,128
+"Friday, December 19, 2025",Pelicans,Home,24,21,38,36,14,133
+"Friday, December 19, 2025",Pistons,Away,30,27,22,31,4,114
+"Friday, December 19, 2025",Mavericks,Home,35,31,25,19,6,116
+"Friday, December 19, 2025",Magic,Away,32,22,31,30,,115
+"Friday, December 19, 2025",Nuggets,Home,25,43,31,27,,126
+"Friday, December 19, 2025",Warriors,Away,29,24,18,27,,98
+"Friday, December 19, 2025",Suns,Home,26,20,24,29,,99
+"Friday, December 19, 2025",Lakers,Away,32,41,29,41,,143
+"Friday, December 19, 2025",Jazz,Home,41,37,28,29,,135
+"Friday, December 19, 2025",Kings,Away,40,20,23,32,18,133
+"Friday, December 19, 2025",Trail Blazers,Home,36,27,19,33,19,134
 "Thursday, December 18, 2025",Cavaliers,Away,34,24,30,23,,111
 "Thursday, December 18, 2025",Bulls,Home,33,29,33,32,,127
 "Thursday, December 18, 2025",Grizzlies,Away,29,32,27,28,,116
@@ -137,8 +161,6 @@ Date,Team,Location,1,2,3,4,OT,Total
 "Thursday, December 4, 2025",Cavaliers,Home,33,25,27,25,,110
 "Thursday, December 4, 2025",Nuggets,Away,33,39,30,33,,135
 "Thursday, December 4, 2025",Pacers,Home,28,20,31,41,,120
-"Thursday, December 4, 2025",Spurs,Away,31,27,28,28,,114
-"Thursday, December 4, 2025",Magic,Home,29,20,30,33,,112
 "Thursday, December 4, 2025",Clippers,Away,27,28,39,21,,115
 "Thursday, December 4, 2025",Hawks,Home,21,20,32,19,,92
 "Thursday, December 4, 2025",Hornets,Away,12,35,28,29,,104
