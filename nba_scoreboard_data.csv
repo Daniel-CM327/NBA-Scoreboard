@@ -1,4 +1,10 @@
 Date,Team,Location,1,2,3,4,OT,Total
+"Sunday, April 5, 2026",Wizards,Away,32,25,34,45,,136
+"Sunday, April 5, 2026",Heat,Home,36,41,45,30,,152
+"Sunday, April 5, 2026",Spurs,Away,43,29,24,28,10,134
+"Sunday, April 5, 2026",Nuggets,Home,36,29,27,32,12,136
+"Sunday, April 5, 2026",Pistons,Away,41,30,24,21,,116
+"Sunday, April 5, 2026",76ers,Home,31,29,21,12,,93
 "Saturday, April 4, 2026",Pacers,Away,24,26,32,26,,108
 "Saturday, April 4, 2026",Hornets,Home,38,31,31,29,,129
 "Saturday, April 4, 2026",Timberwolves,Away,17,30,24,32,,103
@@ -339,10 +345,14 @@ Date,Team,Location,1,2,3,4,OT,Total
 "Saturday, March 14, 2026",Clippers,Home,33,30,29,27,,119
 "Friday, March 13, 2026",76ers,Away,27,33,21,28,,109
 "Friday, March 13, 2026",Pistons,Home,36,33,35,27,,131
+"Friday, March 13, 2026",Suns,Away,36,31,29,27,,123
+"Friday, March 13, 2026",Pacers,Home,36,25,27,20,,108
 "Friday, March 13, 2026",Wizards,Away,26,30,25,42,8,131
 "Friday, March 13, 2026",Magic,Home,36,27,33,27,13,136
 "Friday, March 13, 2026",Nets,Away,21,29,29,18,,97
 "Friday, March 13, 2026",Hawks,Home,30,27,25,26,,108
+"Friday, March 13, 2026",Bucks,Away,21,30,26,28,,105
+"Friday, March 13, 2026",Heat,Home,31,28,26,27,,112
 "Friday, March 13, 2026",Mavericks,Away,34,31,21,34,,120
 "Friday, March 13, 2026",Grizzlies,Home,22,32,30,28,,112
 "Friday, March 13, 2026",Nuggets,Away,25,28,41,42,,136
@@ -393,6 +403,8 @@ Date,Team,Location,1,2,3,4,OT,Total
 "Tuesday, March 10, 2026",Thunder,Home,37,29,30,33,,129
 "Tuesday, March 10, 2026",Warriors,Away,27,28,29,32,,116
 "Tuesday, March 10, 2026",Jazz,Home,29,30,32,28,,119
+"Tuesday, March 10, 2026",Knicks,Away,24,31,26,37,,118
+"Tuesday, March 10, 2026",Clippers,Home,28,36,24,38,,126
 "Monday, March 9, 2026",Celtics,Away,35,21,30,23,,109
 "Monday, March 9, 2026",Cavaliers,Home,26,10,33,29,,98
 "Monday, March 9, 2026",Knicks,Away,23,26,20,28,,97
@@ -441,6 +453,8 @@ Date,Team,Location,1,2,3,4,OT,Total
 "Saturday, March 7, 2026",Lakers,Home,35,29,35,29,,128
 "Friday, March 6, 2026",Mavericks,Away,33,29,26,26,,114
 "Friday, March 6, 2026",Magic,Home,26,34,31,24,,115
+"Friday, March 6, 2026",Jazz,Away,37,30,26,29,,122
+"Friday, March 6, 2026",Wizards,Home,23,26,35,28,,112
 "Friday, March 6, 2026",Nets,Away,26,30,27,27,,110
 "Friday, March 6, 2026",Heat,Home,31,29,35,31,,126
 "Friday, March 6, 2026",Warriors,Away,30,21,30,20,14,115
