@@ -1,4 +1,24 @@
 Date,Team,Location,1,2,3,4,OT,Total
+"Wednesday, April 8, 2026",Bulls,Away,38,28,34,29,,129
+"Wednesday, April 8, 2026",Wizards,Home,18,19,26,35,,98
+"Wednesday, April 8, 2026",Timberwolves,Away,35,28,39,22,,124
+"Wednesday, April 8, 2026",Pacers,Home,27,26,24,27,,104
+"Wednesday, April 8, 2026",Bucks,Away,29,14,19,28,,90
+"Wednesday, April 8, 2026",Nets,Home,30,19,21,26,,96
+"Wednesday, April 8, 2026",Heat,Away,27,24,25,19,,95
+"Wednesday, April 8, 2026",Raptors,Home,32,32,30,27,,121
+"Wednesday, April 8, 2026",Hornets,Away,31,30,26,15,,102
+"Wednesday, April 8, 2026",Celtics,Home,20,35,35,23,,113
+"Wednesday, April 8, 2026",Jazz,Away,34,35,27,41,,137
+"Wednesday, April 8, 2026",Pelicans,Home,24,37,50,45,,156
+"Wednesday, April 8, 2026",Kings,Away,26,27,28,24,,105
+"Wednesday, April 8, 2026",Warriors,Home,25,41,19,25,,110
+"Wednesday, April 8, 2026",Thunder,Away,34,31,28,30,,123
+"Wednesday, April 8, 2026",Lakers,Home,27,20,15,25,,87
+"Wednesday, April 8, 2026",Mavericks,Away,26,29,29,19,,103
+"Wednesday, April 8, 2026",Clippers,Home,39,26,24,27,,116
+"Wednesday, April 8, 2026",Rockets,Away,21,33,27,38,,119
+"Wednesday, April 8, 2026",Suns,Home,37,20,27,21,,105
 "Tuesday, April 7, 2026",Knicks,Away,32,21,28,27,,108
 "Tuesday, April 7, 2026",Hawks,Home,31,26,22,26,,105
 "Tuesday, April 7, 2026",Pistons,Away,28,27,21,31,,107
@@ -1277,8 +1297,6 @@ Date,Team,Location,1,2,3,4,OT,Total
 "Thursday, January 8, 2026",Nets,Home,23,20,21,29,10,103
 "Thursday, January 8, 2026",Clippers,Away,31,25,31,24,,111
 "Thursday, January 8, 2026",Knicks,Home,27,24,39,33,,123
-"Thursday, January 8, 2026",Suns,Away,30,35,26,26,,117
-"Thursday, January 8, 2026",Grizzlies,Home,23,24,21,30,,98
 "Thursday, January 8, 2026",Jazz,Away,22,31,33,28,11,125
 "Thursday, January 8, 2026",Thunder,Home,31,27,33,23,15,129
 "Thursday, January 8, 2026",Lakers,Away,23,20,25,23,,91
@@ -1315,8 +1333,6 @@ Date,Team,Location,1,2,3,4,OT,Total
 "Tuesday, January 6, 2026",Clippers,Home,31,24,21,27,,103
 "Tuesday, January 6, 2026",Jazz,Away,26,31,26,34,,117
 "Tuesday, January 6, 2026",Trail Blazers,Home,36,42,36,23,,137
-"Monday, January 5, 2026",Pistons,Away,19,47,21,27,,114
-"Monday, January 5, 2026",Cavaliers,Home,28,28,26,28,,110
 "Monday, January 5, 2026",Pacers,Away,36,22,42,27,,127
 "Monday, January 5, 2026",Magic,Home,28,41,38,28,,135
 "Monday, January 5, 2026",Nuggets,Away,29,23,32,31,,115
@@ -1329,8 +1345,6 @@ Date,Team,Location,1,2,3,4,OT,Total
 "Monday, January 5, 2026",Suns,Home,20,22,32,34,,108
 "Monday, January 5, 2026",Bucks,Away,28,34,23,30,,115
 "Monday, January 5, 2026",Kings,Home,26,18,25,29,,98
-"Monday, January 5, 2026",Grizzlies,Away,34,31,22,27,,114
-"Monday, January 5, 2026",Lakers,Home,26,28,29,37,,120
 "Sunday, January 4, 2026",Timberwolves,Away,27,29,34,35,,125
 "Sunday, January 4, 2026",Heat,Home,25,25,36,29,,115
 "Sunday, January 4, 2026",76ers,Away,31,35,33,31,,130
@@ -1347,10 +1361,6 @@ Date,Team,Location,1,2,3,4,OT,Total
 "Sunday, January 4, 2026",Warriors,Home,25,33,42,23,,123
 "Sunday, January 4, 2026",Celtics,Away,42,29,42,33,,146
 "Sunday, January 4, 2026",Clippers,Home,28,35,36,16,,115
-"Saturday, January 3, 2026",Spurs,Away,30,41,22,30,,123
-"Saturday, January 3, 2026",Pacers,Home,31,27,27,28,,113
-"Saturday, January 3, 2026",Nets,Away,24,26,23,26,,99
-"Saturday, January 3, 2026",Wizards,Home,37,27,32,23,,119
 "Saturday, January 3, 2026",Nuggets,Away,24,35,38,11,,108
 "Saturday, January 3, 2026",Cavaliers,Home,28,34,26,25,,113
 "Saturday, January 3, 2026",Hawks,Away,33,27,34,17,,111
@@ -1383,12 +1393,8 @@ Date,Team,Location,1,2,3,4,OT,Total
 "Thursday, January 1, 2026",Hawks,Home,33,37,28,28,,126
 "Thursday, January 1, 2026",Magic,Away,31,37,26,18,,112
 "Thursday, January 1, 2026",Pacers,Home,28,38,29,15,,110
-"Thursday, January 1, 2026",Suns,Away,21,33,35,24,,113
-"Thursday, January 1, 2026",Cavaliers,Home,37,30,29,33,,129
 "Thursday, January 1, 2026",Pelicans,Away,32,30,28,28,,118
 "Thursday, January 1, 2026",Bulls,Home,36,31,30,37,,134
-"Thursday, January 1, 2026",Knicks,Away,45,28,29,30,,132
-"Thursday, January 1, 2026",Spurs,Home,36,27,30,41,,134
 "Thursday, January 1, 2026",Nuggets,Away,32,31,22,21,,106
 "Thursday, January 1, 2026",Raptors,Home,23,31,25,24,,103
 "Thursday, January 1, 2026",Wizards,Away,30,35,21,28,,114
@@ -1417,8 +1423,6 @@ Date,Team,Location,1,2,3,4,OT,Total
 "Tuesday, December 30, 2025",Bulls,Home,23,27,28,23,,101
 "Tuesday, December 30, 2025",Pacers,Away,25,23,30,41,,119
 "Tuesday, December 30, 2025",Rockets,Home,30,36,39,21,,126
-"Tuesday, December 30, 2025",Knicks,Away,37,35,24,34,,130
-"Tuesday, December 30, 2025",Pelicans,Home,41,34,28,22,,125
 "Tuesday, December 30, 2025",Hawks,Away,38,36,29,26,,129
 "Tuesday, December 30, 2025",Thunder,Home,35,35,43,27,,140
 "Tuesday, December 30, 2025",Cavaliers,Away,25,24,27,37,,113
@@ -1531,12 +1535,16 @@ Date,Team,Location,1,2,3,4,OT,Total
 "Monday, December 22, 2025",Nets,Home,24,25,18,29,,96
 "Monday, December 22, 2025",Heat,Away,37,25,37,26,,125
 "Monday, December 22, 2025",Knicks,Home,30,36,39,27,,132
+"Monday, December 22, 2025",Spurs,Away,26,43,29,26,,124
+"Monday, December 22, 2025",Wizards,Home,28,21,37,27,,113
 "Monday, December 22, 2025",Bucks,Away,29,31,15,25,,100
 "Monday, December 22, 2025",Timberwolves,Home,23,25,27,28,,103
 "Monday, December 22, 2025",Rockets,Away,31,37,23,21,12,124
 "Monday, December 22, 2025",Kings,Home,30,27,25,30,13,125
 "Sunday, December 21, 2025",Rockets,Away,26,27,29,33,,115
 "Sunday, December 21, 2025",Nuggets,Home,29,16,21,35,,101
+"Sunday, December 21, 2025",Mavericks,Away,33,29,35,17,,114
+"Sunday, December 21, 2025",76ers,Home,38,30,23,30,,121
 "Sunday, December 21, 2025",Celtics,Away,32,17,34,29,,112
 "Sunday, December 21, 2025",Raptors,Home,20,31,29,16,,96
 "Sunday, December 21, 2025",Pacers,Away,27,22,30,30,,109
@@ -1545,6 +1553,8 @@ Date,Team,Location,1,2,3,4,OT,Total
 "Sunday, December 21, 2025",Pistons,Home,33,22,24,33,,112
 "Sunday, December 21, 2025",Wizards,Away,25,28,42,35,,130
 "Sunday, December 21, 2025",Grizzlies,Home,30,38,27,27,,122
+"Sunday, December 21, 2025",Suns,Away,44,23,20,29,,116
+"Sunday, December 21, 2025",Warriors,Home,32,32,29,26,,119
 "Sunday, December 21, 2025",Magic,Away,36,29,32,21,10,128
 "Sunday, December 21, 2025",Jazz,Home,38,22,22,36,9,127
 "Sunday, December 21, 2025",Trail Blazers,Away,28,19,25,26,,98
