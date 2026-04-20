@@ -1,4 +1,12 @@
 Date,Team,Location,1,2,3,4,OT,Total
+"Sunday, April 19, 2026",Raptors,Away,31,23,22,37,,113
+"Sunday, April 19, 2026",Cavaliers,Home,35,26,36,29,,126
+"Sunday, April 19, 2026",Timberwolves,Away,33,29,17,26,,105
+"Sunday, April 19, 2026",Nuggets,Home,23,39,29,25,,116
+"Sunday, April 19, 2026",Hawks,Away,24,31,19,28,,102
+"Sunday, April 19, 2026",Knicks,Home,30,27,26,30,,113
+"Sunday, April 19, 2026",Rockets,Away,29,19,18,32,,98
+"Sunday, April 19, 2026",Lakers,Home,33,17,25,32,,107
 "Saturday, April 18, 2026",Hornets,Away,16,21,34,19,,90
 "Saturday, April 18, 2026",Magic,Home,38,30,34,19,,121
 "Saturday, April 18, 2026",Warriors,Away,15,30,24,27,,96
@@ -659,12 +667,8 @@ Date,Team,Location,1,2,3,4,OT,Total
 "Tuesday, March 3, 2026",Jazz,Home,34,33,26,32,,125
 "Tuesday, March 3, 2026",Clippers,Away,19,23,35,37,,114
 "Tuesday, March 3, 2026",Warriors,Home,31,25,23,22,,101
-"Monday, March 2, 2026",Spurs,Away,21,20,28,20,,89
-"Monday, March 2, 2026",Knicks,Home,22,29,29,34,,114
 "Monday, March 2, 2026",Cavaliers,Away,29,17,28,32,,106
 "Monday, March 2, 2026",Nets,Home,24,28,23,27,,102
-"Monday, March 2, 2026",Bucks,Away,32,34,23,8,,97
-"Monday, March 2, 2026",Bulls,Home,30,21,36,33,,120
 "Monday, March 2, 2026",Timberwolves,Away,22,36,32,27,,117
 "Monday, March 2, 2026",Nuggets,Home,31,19,32,26,,108
 "Monday, March 2, 2026",Grizzlies,Away,34,31,26,34,,125
@@ -687,8 +691,6 @@ Date,Team,Location,1,2,3,4,OT,Total
 "Sunday, March 1, 2026",Heat,Home,32,19,34,30,,115
 "Sunday, March 1, 2026",Raptors,Away,25,36,37,36,,134
 "Sunday, March 1, 2026",Wizards,Home,33,31,28,33,,125
-"Sunday, March 1, 2026",Lakers,Away,33,32,34,30,,129
-"Sunday, March 1, 2026",Warriors,Home,20,27,25,29,,101
 "Sunday, March 1, 2026",Pelicans,Away,27,38,24,26,,115
 "Sunday, March 1, 2026",Jazz,Home,22,18,33,32,,105
 "Saturday, February 28, 2026",Cavaliers,Away,35,19,30,30,5,119
@@ -701,16 +703,10 @@ Date,Team,Location,1,2,3,4,OT,Total
 "Saturday, February 28, 2026",Mavericks,Home,20,24,26,35,,105
 "Saturday, February 28, 2026",Nuggets,Away,33,26,24,24,14,121
 "Saturday, February 28, 2026",Thunder,Home,19,31,27,30,20,127
-"Friday, February 27, 2026",Hornets,Away,31,36,40,26,,133
-"Friday, February 27, 2026",Pacers,Home,34,12,36,27,,109
 "Friday, February 27, 2026",Heat,Away,35,22,34,26,,117
 "Friday, February 27, 2026",76ers,Home,36,37,26,25,,124
 "Friday, February 27, 2026",Wizards,Away,26,30,24,16,,96
 "Friday, February 27, 2026",Hawks,Home,37,39,22,28,,126
-"Friday, February 27, 2026",Spurs,Away,36,35,33,22,,126
-"Friday, February 27, 2026",Nets,Home,22,34,28,26,,110
-"Friday, February 27, 2026",Rockets,Away,22,21,38,32,,113
-"Friday, February 27, 2026",Magic,Home,29,24,27,28,,108
 "Friday, February 27, 2026",Trail Blazers,Away,32,37,24,28,,121
 "Friday, February 27, 2026",Bulls,Home,34,29,23,26,,112
 "Friday, February 27, 2026",Kings,Away,42,26,32,30,,130
@@ -721,8 +717,6 @@ Date,Team,Location,1,2,3,4,OT,Total
 "Friday, February 27, 2026",Jazz,Home,38,23,27,30,,118
 "Friday, February 27, 2026",Timberwolves,Away,29,15,19,31,,94
 "Friday, February 27, 2026",Clippers,Home,27,11,30,20,,88
-"Thursday, February 26, 2026",Thunder,Away,34,18,28,36,,116
-"Thursday, February 26, 2026",Pistons,Home,22,36,36,30,,124
 "Thursday, February 26, 2026",Spurs,Away,30,27,21,32,,110
 "Thursday, February 26, 2026",Raptors,Home,29,30,31,17,,107
 "Thursday, February 26, 2026",Warriors,Away,34,40,22,37,,133
@@ -731,14 +725,10 @@ Date,Team,Location,1,2,3,4,OT,Total
 "Thursday, February 26, 2026",Rockets,Home,33,44,31,20,,128
 "Thursday, February 26, 2026",Cavaliers,Away,33,30,31,22,,116
 "Thursday, February 26, 2026",Bucks,Home,33,29,31,25,,118
-"Thursday, February 26, 2026",Celtics,Away,24,24,19,17,,84
-"Thursday, February 26, 2026",Nuggets,Home,21,26,30,26,,103
 "Wednesday, February 25, 2026",76ers,Away,30,45,31,29,,135
 "Wednesday, February 25, 2026",Pacers,Home,38,27,20,29,,114
 "Wednesday, February 25, 2026",Wizards,Away,20,23,21,34,,98
 "Wednesday, February 25, 2026",Hawks,Home,35,25,40,19,,119
-"Wednesday, February 25, 2026",Mavericks,Away,36,40,23,24,,123
-"Wednesday, February 25, 2026",Nets,Home,29,35,27,23,,114
 "Wednesday, February 25, 2026",Thunder,Away,25,35,38,18,,116
 "Wednesday, February 25, 2026",Raptors,Home,32,19,29,27,,107
 "Wednesday, February 25, 2026",Knicks,Away,26,28,11,29,,94
@@ -755,8 +745,6 @@ Date,Team,Location,1,2,3,4,OT,Total
 "Wednesday, February 25, 2026",Trail Blazers,Home,27,32,35,27,,121
 "Wednesday, February 25, 2026",Magic,Away,25,28,26,31,,110
 "Wednesday, February 25, 2026",Lakers,Home,33,23,24,29,,109
-"Tuesday, February 24, 2026",Spurs,Away,24,33,26,31,,114
-"Tuesday, February 24, 2026",Pistons,Home,27,28,20,28,,103
 "Tuesday, February 24, 2026",Kings,Away,33,30,29,31,,123
 "Tuesday, February 24, 2026",Grizzlies,Home,25,36,28,25,,114
 "Tuesday, February 24, 2026",Jazz,Away,22,25,28,30,,105
